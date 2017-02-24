@@ -1,25 +1,25 @@
 body
 {
-    background-color: #33ccff;
-    color: #:FFFFFF;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 header
 {
-    background-color: #66ccff;
+    background-color: #None;
 }
 
 nav
 {
-    background-color: #99ccff;
+    background-color: #None;
 }
 
 maim
 {
-    background-color: #ccccff;
+    background-color: #None;
 }
 
 footer
 {
-    background-color: #ffccff;
+    background-color: #None;
 }
