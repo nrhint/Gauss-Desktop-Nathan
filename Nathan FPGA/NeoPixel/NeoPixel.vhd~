@@ -1,0 +1,7 @@
+architecture NeoPixel of pix is
+
+begin  -- architecture NeoPixel
+
+  
+
+end architecture NeoPixel;
